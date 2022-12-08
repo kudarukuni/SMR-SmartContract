@@ -1,1 +1,3 @@
-# OCMF-SmartContract
+# SMR-SmartContract
+
+Solana Movie Reviwer
